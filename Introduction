@@ -1,0 +1,49 @@
+------ INTRODUCTION ------
+Python was created by Guido Van Rossum
+Released in 1991
+Used For: 
+     1) Server-Side Development
+     2) Software Development
+     3) System Scripting
+     4) Mathematics
+------ WHAT ELSE PYTHON CAN DO ------
+Connect to data base systems
+Handle Big Data
+Perform complex maths
+Rapid prototyping
+------ WHY WE NEED PYTHON ------
+Run on interpreter system
+Simple syntax
+Works on different platform
+Treated in:    i) Procedural way
+	          ii) Object-Oriented way
+ 	         iii) Functional way
+------ MODES IN PYTHON ------
+There are two modes in python, 
+they are:
+A.	Interactive Mode
+B.	Script Mode
+------ INTERACTIVE MODES ------
+" >>> " --> this indicates that the python shell is ready to execute
+Example :
+>>> print(“ python ”)
+>>> python
+>>> print(5+10)
+>>> 15
+This mode act as a calculator
+Known as REPL (Read, Evaluate, Print, and Loop)
+Quick way of running blocks
+Single line python code
+The result immediately displayed
+Codes cannot be modified
+------ SCRIPT MODE ------
+To open this mode:
+	Open IDLE  ctrl N (or) go to file  new file
+For long code this mode can be used
+Can use any text editor
+Codes can be edited in a direct way
+------ SYNTAX IN PYTHON ------
+In python, syntax is designed for readability
+Does not use often semicolon or parentheses to complete a block of code
+Relies on indentation, using white spaces to define scope, such as loops, functions and classes 
+
