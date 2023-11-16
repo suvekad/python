@@ -1,0 +1,37 @@
+------ PYTHON VARIABLE ------
+It is like a labelled box where we can store information, manipulate and reference data in programs.
+Example:
+X=10
+Here,   ‘ X ‘  is a variable
+
+------ PYTHON COMMENTS ------
+Comments used to explain code 
+They do not execute while running program
+‘ # ‘ is used for single line comment
+( ‘ ‘ ‘  or “ ” ” ) used for multiline string
+Example:
+# this is comment
+‘ ‘ ‘  this is a example 
+           Of python comments ‘ ‘ ‘ 
+           
+------ DATA TYPES ------
+Data types help define what kind of information a variable hold
+INTEGER: ( int ) for whole numbers
+FLOAT: ( float ) for decimal numbers
+STRING: ( str ) for text
+BOOLEAN: ( boolean ) for true/false values
+LIST: ( [] ) for ordered collections
+TUPLE: ( () ) for immutable ordered collections
+DICTIONARIES: ( {key: value} ) for key value pair
+SETS: ( {} ) for unique unordered values
+
+------ PYTHON OPERATORS ------
+Operators are used to perform operations on variables and values.
+They are:
+•	Arithmetic operators
+•	Assignment operators
+•	Comparison operators
+•	Logical operators
+•	Identity operators
+•	Membership operators
+•	Bitwise operators
