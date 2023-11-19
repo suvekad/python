@@ -60,7 +60,7 @@ not		     Reverse the result, returns False if the result is true	not(x < 5 and 
 
 
 ------ ASSIGNMENT OPERATORS ------
-Operator				    Example				     Same As
+Operator				   Example				                Same As
 =					x = 5					   x = 5	
 +=					x += 3					   x = x + 3	
 -=					x -= 3					   x = x - 3	
